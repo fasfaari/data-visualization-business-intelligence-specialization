@@ -17,6 +17,7 @@ This repository documents my learning journey through the Data Visualization & B
 | 5 | Dynamic Dashboards: Report and Visualize Data |
 | 6 | How To Visualize Your Data Using Microsoft PowerPoint |
 | 7 | PowerBI: Visualize & Publish Data |
+| 8 | Model Power BI Data with Security |
 
 ## Skills Gained
 
