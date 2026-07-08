@@ -22,4 +22,5 @@ This Power BI dashboard provides an aging analysis of customer outstanding balan
 The dashboard helps management identify overdue receivables, monitor risk exposure, and prioritize collection efforts.
 
 ## Dashboard Preview
-Dashboard screenshot available in this project folder.
+
+![Aging Analysis Dashboard](Aging_Analysis_Dashboard_Screenshot.png)
