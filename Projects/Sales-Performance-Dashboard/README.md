@@ -23,7 +23,7 @@ Interactive Power BI dashboard developed using a public sales dataset from Kaggl
 
 ## Dashboard Screenshot
 
-(Add screenshot below)
+![Sales Dashboard](Sales_Performance_Dashboard.png)
 
 ## Live Dashboard
 
