@@ -27,4 +27,4 @@ Interactive Power BI dashboard developed using a public sales dataset from Kaggl
 
 ## Live Dashboard
 
-[View Interactive Dashboard]([https://app.powerbi.com/view?r=abc123xyz](https://app.powerbi.com/view?r=eyJrIjoiNmUwMzBlZjYtYTgyZS00ZGMwLThlNWQtYjdhNDAyYjMwZDVlIiwidCI6IjY4Y2M1ODNmLWU0YWMtNDU0NS05YTAwLTIwZTdiMTQwYjM4MyIsImMiOjl9)
+[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmUwMzBlZjYtYTgyZS00ZGMwLThlNWQtYjdhNDAyYjMwZDVlIiwidCI6IjY4Y2M1ODNmLWU0YWMtNDU0NS05YTAwLTIwZTdiMTQwYjM4MyIsImMiOjl9)
