@@ -70,7 +70,7 @@ Analysis of attrition across different employee job levels.
 
 ## Interactive Dashboard
 
-[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmUwMzBlZjYtYTgyZS00ZGMwLThlNWQtYjdhNDAyYjMwZDVlIiwidCI6IjY4Y2M1ODNmLWU0YWMtNDU0NS05YTAwLTIwZTdiMTQwYjM4MyIsImMiOjl9)
+[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjM1OGUwNzItYmQ1Yy00MWI0LWFjNmMtMTYzZTIzN2UwNjBkIiwidCI6IjY4Y2M1ODNmLWU0YWMtNDU0NS05YTAwLTIwZTdiMTQwYjM4MyIsImMiOjl9)
 
 ## Project Purpose
 
